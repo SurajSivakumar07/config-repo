@@ -1,12 +1,7 @@
-# =====================================================
-# auth-service configuration
-# Served by Config Server at: /auth-service/default
-# =====================================================
-
 server:
   port: 8082
 
-spring:
+spring: 
   application:
     name: auth-service
 
